@@ -1,0 +1,7 @@
+{
+    "pageLoadTimeout":600000,
+    "chromeWebSecurity":false,
+    "defaultCommandTimeout":60000,
+    "modifyObstructiveCode":false
+
+}

@@ -1,0 +1,17 @@
+{
+  "name": "cypress06042020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "download-extension": "ced gleekbfjekiniecknbkamfmkohkpodhe extensions/ignore-x-frame-headers"
+  },
+  "author": "Shakeel Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "chrome-ext-downloader": "^1.0.4",
+    "cypress": "^4.3.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^1.4.0"
+  }
+}
